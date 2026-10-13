@@ -88,11 +88,11 @@ Corporate website developed for a real estate investment company.
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=petarpopovic013&theme=tokyonight"
+    src="./profile-summary-card-output/tokyonight/3-stats.svg"
     height="170"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=petarpopovic013&theme=tokyonight"
+    src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
     height="170"
   />
 </p>

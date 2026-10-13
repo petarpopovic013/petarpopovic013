@@ -85,13 +85,15 @@ Corporate website developed for a real estate investment company.
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=petarpopovic013-oss&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=petarpopovic013&theme=tokyonight"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=petarpopovic013-oss&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=petarpopovic013&theme=tokyonight"
     height="170"
   />
 </p>

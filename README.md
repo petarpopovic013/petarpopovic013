@@ -81,21 +81,6 @@ Corporate website developed for a real estate investment company.
 - 🧠 Machine Learning and AI integration
 - 📈 Building scalable SaaS products
 
----
-
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="./profile-summary-card-output/tokyonight/3-stats.svg"
-    height="170"
-  />
-  <img
-    src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
-    height="170"
-  />
-</p>
 
 ---
 

@@ -83,7 +83,6 @@ Corporate website developed for a real estate investment company.
 
 ---
 
-## 📊 GitHub Statistics
 
 ## 📊 GitHub Statistics
 

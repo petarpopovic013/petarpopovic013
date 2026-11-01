@@ -1,141 +1,155 @@
 
-<h1 align="center">Hey there! 👋 I'm Petar Popović</h1>
+<div align="center">
 
-<h3 align="center">
-  Full-Stack Developer | Information Systems Engineering Student
-</h3>
+  <h1>Hey there! 👋 I'm Petar Popović</h1>
 
-<p align="center">
+  <h3>Full-Stack Developer · Information Systems Engineering Student</h3>
+
   <a href="https://www.linkedin.com/in/petarpopovic013/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=70B9FF" />
   </a>
-</p>
+  <a href="https://github.com/petarpopovic013?tab=repositories">
+    <img alt="GitHub projects" src="https://img.shields.io/badge/GitHub-My%20projects-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+### 01 · About me
 
-I'm a Full-Stack Developer and Information Systems Engineering student at the Faculty of Technical Sciences, University of Novi Sad.
+I'm **Petar**, a second-year **Information Systems Engineering student** at the **Faculty of Technical Sciences, University of Novi Sad**, and a freelance Full-Stack Developer.
 
-I enjoy building modern web applications, solving real-world problems, and exploring emerging technologies. Alongside developing applications for real clients, I'm an active hackathon participant who enjoys collaborating with teams, experimenting with AI, and turning ideas into working products under tight deadlines.
+I enjoy building end-to-end applications, solving real-world problems, and exploring new technologies. Alongside developing software for real clients, I'm a frequent **hackathon participant**, where I enjoy collaborating with teams, experimenting with AI, and turning ideas into working products under tight deadlines.
 
-- 🎓 Information Systems Engineering @ FTN Novi Sad
-- 🏆 Vega IT "Verujemo u tebe" Scholarship Recipient
-- 🥉 3rd Place — GDG DevFest Belgrade Hackathon 2026
-- 💻 Freelance Full-Stack Developer with real-world project experience
-- 🚀 Active hackathon participant
-- 🤖 Interested in AI, Multi-Agent Systems & Software Engineering
-- 🌍 Based in Novi Sad, Serbia
+- 💼 **Freelance Full-Stack Developer (Jan 2026 – present):** building production web applications and websites for real clients using **Next.js, TypeScript, React, and Supabase**.
+- 🥉 **3rd place — GDG DevFest Belgrade Hackathon 2026:** built **PitchCheck**, a privacy-first AI-powered pitch analysis platform with my team.
+- 🏆 **Vega IT Foundation Scholarship Recipient:** awarded the **"Verujemo u tebe"** scholarship.
+- 🧠 Interested in **full-stack engineering, applied AI, multi-agent systems, and software architecture**.
+- 📍 Based in **Novi Sad, Serbia**.
+
+### 02 · Selected projects
+
+<table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🏛️ <a href="https://github.com/petarpopovic013/archilles">Archilles</a></h3>
+      <p>An AI-assisted architectural plan review platform that identifies potential fire-safety and accessibility issues. Collaborating AI agents analyze floor plans and regulatory context, while a deterministic rule engine provides traceable findings and dimension-based compliance checks.</p>
+      <p><b>JigJoy × NTP Novi Sad Hackathon 2026</b></p>
+      <p>
+        <code>TypeScript</code>
+        <code>Next.js</code>
+        <code>Claude Vision</code>
+        <code>Mozaik</code>
+      </p>
+      <a href="https://github.com/petarpopovic013/archilles">View team repository →</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🥉 <a href="https://github.com/tomovicj/pitchcheck">PitchCheck</a></h3>
+      <p>A privacy-first AI-powered pitch review platform that evaluates speech delivery, presentation slides, and alignment between spoken content and pitch decks using locally hosted AI.</p>
+      <p><b>3rd Place · GDG DevFest Belgrade Hackathon 2026</b></p>
+      <p>
+        <code>Next.js</code>
+        <code>Gemma</code>
+        <code>FastAPI</code>
+      </p>
+      <a href="https://github.com/tomovicj/pitchcheck">View team repository →</a>
+    </td>
+
+    <td width="50%" valign="top">
+      <h3>🏡 Open-Chapter</h3>
+      <p>A luxury villa booking platform developed for a Swiss client, featuring property management, customizable pages, booking workflows, calendar synchronization, and Stripe payment integration.</p>
+      <p><b>Freelance Client Project</b></p>
+      <p>
+        <code>Next.js</code>
+        <code>TypeScript</code>
+        <code>Supabase</code>
+        <code>Stripe</code>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☕ <a href="https://brunch.rs">Brunch</a></h3>
+      <p>A modern, responsive website developed for a restaurant and café brand, focusing on clean design, intuitive navigation, and user experience.</p>
+      <p><b>Freelance Client Project</b></p>
+      <a href="https://brunch.rs">Visit website →</a>
+    </td>
+
+    <td width="50%" valign="top">
+      <h3>🍕 <a href="https://piccante.rs">Piccante</a></h3>
+      <p>A restaurant website designed with a focus on visual presentation, responsive layouts, and a smooth browsing experience.</p>
+      <p><b>Freelance Client Project</b></p>
+      <a href="https://piccante.rs">Visit website →</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🏢 <a href="https://novakinvest.rs">Novak AT Invest</a></h3>
+      <p>A corporate website built for a real estate investment company, focused on professional presentation, modern design, and accessibility across devices.</p>
+      <p><b>Freelance Client Project</b></p>
+      <a href="https://novakinvest.rs">Visit website →</a>
+    </td>
+  </tr>
+</table>
+
+### 03 · Tech stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-101827?style=flat-square&logo=typescript&logoColor=80B5FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-101827?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![C#](https://img.shields.io/badge/C%23-101827?style=flat-square&logo=sharp&logoColor=B391F5)
+![Java](https://img.shields.io/badge/Java-101827?style=flat-square&logo=openjdk&logoColor=EF9F75)
+![SQL](https://img.shields.io/badge/SQL-101827?style=flat-square&logo=postgresql&logoColor=8EBAF5)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-101827?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-101827?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-101827?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-101827?style=flat-square&logo=html5&logoColor=EFA185)
+![CSS3](https://img.shields.io/badge/CSS3-101827?style=flat-square&logo=css&logoColor=80B5FF)
+
+**Backend & databases**
+
+![Supabase](https://img.shields.io/badge/Supabase-101827?style=flat-square&logo=supabase&logoColor=83D6BE)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101827?style=flat-square&logo=postgresql&logoColor=8EBAF5)
+![.NET](https://img.shields.io/badge/.NET-101827?style=flat-square&logo=dotnet&logoColor=A7A2F9)
+![Stripe](https://img.shields.io/badge/Stripe-101827?style=flat-square&logo=stripe&logoColor=A7A2F9)
+
+**Tools & platforms**
+
+![Git](https://img.shields.io/badge/Git-101827?style=flat-square&logo=git&logoColor=F8A37D)
+![GitHub](https://img.shields.io/badge/GitHub-101827?style=flat-square&logo=github&logoColor=FFFFFF)
+![Vercel](https://img.shields.io/badge/Vercel-101827?style=flat-square&logo=vercel&logoColor=FFFFFF)
+![WebStorm](https://img.shields.io/badge/WebStorm-101827?style=flat-square&logo=webstorm&logoColor=80B5FF)
+![Figma](https://img.shields.io/badge/Figma-101827?style=flat-square&logo=figma&logoColor=EAA5B5)
+
+<sub>Also exploring AI integration, multi-agent workflows, cloud technologies, and scalable application architecture.</sub>
+
+### 04 · Beyond the code
+
+- 🎓 **BSc Information Systems Engineering** — University of Novi Sad, Faculty of Technical Sciences (2025 – present)
+- 🏆 **Vega IT Foundation Scholarship** — "Verujemo u tebe" (2026)
+- 🥉 **GDG DevFest Belgrade Hackathon 2026** — 3rd Place with PitchCheck
+- 🏛️ **JigJoy × NTP Novi Sad Hackathon 2026** — Built Archilles with a team
+- 💻 **Freelance Software Development** — Building and delivering real-world applications for clients
+- 🚀 **Hackathons & collaboration** — I enjoy building things with ambitious teams and learning through practical challenges
 
 ---
 
-## 🛠️ Technologies & Tools
-
-### Frontend
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend & Database
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-
-### Programming Languages
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🏛️ Archilles — AI-Powered Architectural Review
-
-**🚀 JigJoy × NTP Novi Sad Hackathon 2026**
-
-A multi-agent AI system developed during the JigJoy × NTP Novi Sad Hackathon, designed to analyze architectural floor plans and identify potential regulatory and safety risks.
-
-- Uses collaborating AI agents for geometry analysis, regulatory checks, and review.
-- Evaluates fire safety and accessibility requirements against Serbian regulations.
-- Combines AI-powered analysis with deterministic rule validation.
-
-🔗 [View Repository](https://github.com/petarpopovic013/archilles)
-
-### 🎤 PitchCheck — AI-Powered Pitch Analysis
-
-**🥉 3rd Place — GDG DevFest Belgrade Hackathon 2026**
-
-A privacy-first AI application developed during the GDG DevFest Belgrade Hackathon, designed to help startups improve their pitches using Google's Gemma model.
-
-- Analyzes speech delivery, pacing, filler words, and presentation quality.
-- Evaluates pitch decks and checks alignment between spoken content and slides.
-- Processes data locally to protect sensitive startup ideas.
-
-🔗 [View Repository](https://github.com/tomovicj/pitchcheck)
-
-### 🌐 Brunch
-
-Modern website developed for a restaurant and café brand, focusing on responsive design and user experience.
-
-🔗 [Visit Website](https://brunch.rs)
-
-### 🍕 Piccante
-
-Restaurant website focused on clean design, intuitive navigation, and a smooth user experience.
-
-🔗 [Visit Website](https://piccante.rs)
-
-### 🏢 Novak AT Invest
-
-Corporate website developed for a real estate investment company, with a focus on modern design and professional presentation.
-
-🔗 [Visit Website](https://novakinvest.rs)
-
----
-
-## 🏆 Hackathons & Achievements
-
-I'm an active hackathon participant who enjoys building innovative solutions, collaborating with talented developers, and turning ideas into working products under tight deadlines.
-
-- 🥉 **GDG DevFest Belgrade Hackathon 2026** — 3rd Place with PitchCheck, an AI-powered pitch analysis platform.
-- 🚀 **JigJoy × NTP Novi Sad Hackathon 2026** — Built Archilles, a multi-agent AI system for architectural safety and regulatory review.
-- 🎓 **Vega IT Foundation** — "Verujemo u tebe" Scholarship Recipient.
-
----
-
-## 🌱 Currently Exploring
-
-- 🤖 AI-powered applications and multi-agent systems
-- ⚙️ Backend development and software architecture
-- 🧠 Machine Learning and AI integration
-- ☁️ Cloud technologies and scalable applications
-- 🚀 Building SaaS products and solving real-world problems
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to meeting other developers, collaborating on interesting projects, participating in hackathons, and exploring new opportunities.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/petarpopovic013/)
-
----
-
-<p align="center">
-  <i>Always learning. Always building.</i>
-</p>
+<div align="center">
+  <b>Have an idea, a project, or just want to talk software?</b>
+  <br /><br />
+  <a href="https://www.linkedin.com/in/petarpopovic013/">LinkedIn</a>
+  ·
+  <a href="https://github.com/petarpopovic013?tab=repositories">Explore my repositories</a>
+  <br /><br />
+  <sub>Always learning. Always building.</sub>
+</div>

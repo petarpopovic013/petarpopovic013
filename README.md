@@ -52,16 +52,6 @@ A privacy-first AI-powered pitch analysis platform that evaluates presentation s
 
 ---
 
-#### 🏡 Open-Chapter
-
-**Freelance Client Project · Switzerland**
-
-A luxury villa booking platform featuring property management, customizable pages, booking workflows, calendar synchronization, and Stripe payment integration. Built as a full-stack application with a custom administration system.
-
-`Next.js` `TypeScript` `Supabase` `Stripe` `Tailwind CSS`
-
----
-
 #### ☕ [Brunch](https://brunch.rs)
 
 **Freelance Client Project**
